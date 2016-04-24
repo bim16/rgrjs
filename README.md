@@ -10,10 +10,11 @@ Checkout this repo, install dependencies, then start with the following:
 	> git clone https://github.com/bim16/rgrjs.git
 	> cd rgrjs
 	> npm install
-	> nmp start
+	> webpack -w -d
 ```
 
-Start webpack too in another console window:
+Start the server and navigate to http://localhost:3000
+
 ```
-  > webpack -w -d
+  > npm start
 ```
