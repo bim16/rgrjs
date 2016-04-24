@@ -4,7 +4,7 @@ Building Data-driven React Applications with Relay, GraphQL, and Flux
 
 ###Getting Started###
 
-Checkout this repo, install dependencies, then start with the following:
+Checkout this repo, install dependencies, then watch and bundle with the following:
 
 ```
 	> git clone https://github.com/bim16/rgrjs.git
